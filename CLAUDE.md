@@ -6,7 +6,7 @@ Guidance for Claude Code when working in this repository.
 > *discipline* so you don't fool yourself with overfit backtests.
 
 ## Communication language
-- Reply to the user in **[ไทย]** (set this — e.g. English/ไทย).
+- Reply to the user in **[ไทย]**.
 - Keep code, variable names, and technical identifiers in English.
 
 ## About this project
